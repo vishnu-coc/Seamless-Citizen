@@ -1,8 +1,7 @@
 # 🌐 Seamless-Citizen  
-*A Digital Platform for Streamlined Government-Citizen Services*  
+*Seamless Citizen :Revolutionizing Public Engagement and Service Delivery through a Mobile App*  
 
-![Seamless-Citizen Demo Banner](https://via.placeholder.com/1200x400?text=Seamless-Citizen+Demo)  
-*(Replace with actual screenshot/gif)*  
+  
 
 ## 📌 Table of Contents  
 - [Project Overview](#-project-overview)  
